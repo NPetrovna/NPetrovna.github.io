@@ -1,0 +1,66 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+article {
+  background-image: url("/core-css-layout-site/img/фон4.jpg");
+}
+
+table {
+  border-spacing: 0;
+}
+.header {
+  background-color: rgb(160, 140, 178);
+  font-size: 30px;
+}
+.footer {
+  background-color: rgb(160, 140, 178);
+  font-size: 15px;
+}
+
+.logo {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.post {
+  margin-top: 30px;
+  background-color: #bca2c1b1;
+}
+.post h3 {
+  font-size: 25px;
+  margin: 0;
+  margin-left: 60px;
+  /* background-color: #bca2c1b1; */
+}
+.postlist {
+  color: rgb(42, 41, 41);
+  padding: 15px;
+}
+.post p {
+  font-size: 18px;
+  line-height: 20px;
+  margin: 5px;
+}
+.sidebar {
+  width: 250px;
+}
+
+.table-left {
+  background-color: #bca2c1b1;
+  padding: 15px;
+}
+.foto {
+  width: 250px;
+  border-radius: 15%;
+}
+.name {
+  font-size: 28px;
+  text-shadow: 2px 2px #c14b9288;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bolder;
+  color: #4b1e39f2;
+}
